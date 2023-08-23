@@ -1,0 +1,13 @@
+[
+    { "text": "Complete MERN task", "completed": false },
+    { "text": "Prepare presentation", "completed": false },
+    { "text": "Buy groceries", "completed": true },
+    { "text": "Exercise", "completed": false },
+    { "text": "Read a book", "completed": false },
+    { "text": "Pay utility bills", "completed": true },
+    { "text": "Call a friend", "completed": false },
+    { "text": "Clean the house", "completed": false },
+    { "text": "Attend a meeting", "completed": true },
+    { "text": "Take a walk", "completed": false }
+  ]
+  
